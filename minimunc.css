@@ -1,1 +1,22 @@
+body {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
 
+h1 {
+  font-size: 50px;
+  text-align: center;
+  background-color: #009FF0;
+  color: white;
+  font-family: Montserrat;
+  font-weight: bold;
+  padding: 50 0 50 0;
+}
+
+h2, h4 {
+  font-family: Lato;
+  text-align: center;
+  color: #0E303D;
+}
