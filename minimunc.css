@@ -20,3 +20,13 @@ h2, h4 {
   text-align: center;
   color: #0E303D;
 }
+
+.wrapper h3 {
+  color: white;
+  font-family: Montserrat;
+}
+
+.wrapper p {
+  color: white;
+  font-family: Lato;
+}
