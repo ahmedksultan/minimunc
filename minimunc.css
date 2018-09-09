@@ -5,6 +5,36 @@ body {
   margin-bottom: 2em;
 }
 
+.wrapper {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 2em;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+.wrapper > div {
+  background: #009FF0;
+  padding: 1em;
+  text-align: center;
+}
+.wrapper2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 2em;
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-top: 2em;
+}
+.wrapper2 > div {
+  background: #0E303D;
+  padding: 1em;
+  text-align: center;
+}
+
+.map {
+  margin-top: 2em;
+}
+
 h1 {
   font-size: 50px;
   text-align: center;
