@@ -21,12 +21,13 @@ h2, h4 {
   color: #0E303D;
 }
 
-.wrapper h3 {
+.wrapper, .wrapper2 h3 {
   color: white;
   font-family: Montserrat;
 }
 
-.wrapper p {
+
+.wrapper, .wrapper2 p {
   color: white;
   font-family: Lato;
 }
